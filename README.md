@@ -6,7 +6,7 @@ Application to read qr codes and open a link that redirects to a website or a ma
 
 - [barcode_scan](https://pub.dev/packages/barcode_scan)
 - [sqflite](https://pub.dev/packages/sqflite)
-- [fluttertoast]https://pub.dev/packages/fluttertoast
+- [fluttertoast](https://pub.dev/packages/fluttertoast)
 - [url_launcher](https://pub.dev/packages/url_launcher)
 - [flutter_map](https://pub.dev/packages/flutter_map)
 
